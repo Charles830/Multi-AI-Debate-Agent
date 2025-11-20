@@ -1,0 +1,5 @@
+{
+  "name": "AI 辩论竞技场",
+  "description": "一个由 Gemini、Qwen、ChatGPT 和 Grok（模拟）根据用户设定的人设进行辩论的平台，并由 AI 法官给出最终裁决。",
+  "requestFramePermissions": []
+}
